@@ -4,10 +4,10 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 #THEME
-#gem "jekyll-theme-minimal"
+gem "jekyll-theme-minimal"
 gem "minima"
 
 #PLUGINS
-#group :jekyll_plugins do
-#  gem "jekyll-feed", "~> 0.6"
-#end
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.6"
+end
