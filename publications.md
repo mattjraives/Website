@@ -6,7 +6,7 @@ title: Publications
 
 ### 2018
 
-Matthias J. Raives, Sean M. Couch, Johnny P. Greco, Ondřej Pejcha, Todd A. Thompson; The antesonic condition for the explosion of core-collapse supernovae - I. Spherically symmetric polytropic models: stability and wind emergence, Monthly Noticed of the Royal Astronomical Society, Volume 481, Issue 3, December 2018, Pages 3293–3304.
+Matthias J. Raives, Sean M. Couch, Johnny P. Greco, Ondřej Pejcha, Todd A. Thompson; The antesonic condition for the explosion of core-collapse supernovae - I. Spherically symmetric polytropic models: stability and wind emergence, Monthly Notices of the Royal Astronomical Society, Volume 481, Issue 3, December 2018, Pages 3293–3304.
 
 [ADS Link](https://ui.adsabs.harvard.edu//#abs/2018MNRAS.481.3293R/abstract)
 
