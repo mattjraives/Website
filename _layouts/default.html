@@ -15,17 +15,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.gi}}</h1> 
+        <h1>{{ site.title | default: site.gi}}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <p>{% include github.html %}</p>
-	  
-        {% endif %}
+        <p>
+          {% include github.html %} &nbsp;
+          {% include twitter.html %}
+        </p>
 
         {% if site.show_downloads %}
           <ul>
@@ -34,7 +29,8 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
           </ul>
           {% endif %}
-	  {% include navbar.html %}
+        {% include navbar.html %}
+        <a href="/assets/cv/cv.pdf">CV</a>
       </header>
       <section>
 
@@ -42,9 +38,6 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
 	<p><small>{% include jekyll.html %}</small></p>
       </footer>
