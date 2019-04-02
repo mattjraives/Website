@@ -18,8 +18,7 @@
         <h1>{{ site.title | default: site.gi}}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <p>
-          {% include github.html %} &nbsp;
-          {% include twitter.html %}
+          {% include github.html %} &#160; {% include twitter.html %} &#160;  {% include mail.html %}
         </p>
 
         {% if site.show_downloads %}
@@ -30,7 +29,6 @@
           </ul>
           {% endif %}
         {% include navbar.html %}
-        <a href="/assets/cv/cv.pdf">CV</a>
       </header>
       <section>
 

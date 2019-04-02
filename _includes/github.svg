@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width=auto
+   width=24
    height=24
    viewBox="0 0 32.5782 31.775002"
    version="1.2"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>GitHub</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,6 +60,8 @@
          inkscape:connector-curvature="0" />
     </clipPath>
   </defs>
+  <title
+     id="title6">GitHub</title>
   <path
      inkscape:connector-curvature="0"
      id="path11"

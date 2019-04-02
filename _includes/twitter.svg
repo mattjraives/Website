@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
    viewBox="0 0 250 203.13794"
-   width=auto
+   width=24
    height=24
    data-name="Logo — FIXED"
    id="Logo_FIXED">
@@ -19,7 +19,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Twitter_Logo_Blue</dc:title>
+        <dc:title>Twitter</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -29,7 +29,7 @@
        id="style2">.cls-1{fill:none;}.cls-2{fill:#1da1f2;}</style>
   </defs>
   <title
-     id="title6">Twitter_Logo_Blue</title>
+     id="title6">Twitter</title>
   <path
      style="fill:#000000"
      id="path10"
