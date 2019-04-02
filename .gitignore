@@ -3,3 +3,7 @@ _site
 .jekyll-metadata
 *~
 _vendor
+*.aux
+*.log
+*.out
+project

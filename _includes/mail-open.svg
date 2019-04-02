@@ -11,7 +11,8 @@
    y="0px"
    x="0px"
    version="1.1"
-   viewBox="0 0 68.722656 65.316406">
+   viewBox="0 0 68.722656 65.316406"
+   class="icon">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -35,22 +36,22 @@
     <path
        id="path2"
        d="M 3.488281,70.574219 H 3.617188 L 3.488281,70.429688 Z m 0,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        id="path4"
        d="M 72.210938,68.648438 V 30.640625 L 47.589844,46.535156 Z m 0,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        id="path6"
        d="m 3.488281,30.640625 v 38.125 L 28.179688,46.585938 Z m 0,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        id="path8"
        d="m 45.109375,48.140625 -7.261719,4.6875 L 30.664062,48.191406 30.53125,48.320312 5.761719,70.574219 H 70.066406 L 45.292969,48.320312 Z m 0,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        id="path10"
        d="M 6.023438,28.9375 8.8125,30.769531 37.847656,49.417969 69.976562,28.9375 67.171875,27.101562 37.5,5.257812 6.023438,28.9375"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
 </svg>
