@@ -1,0 +1,19 @@
+---
+---
+@import "{{ site.theme }}";
+
+
+a {
+  color:#c27a25;
+  text-decoration:none;
+}
+
+a:hover {
+  font-weight:bold;
+  color:#c27a25;
+}
+
+.current {
+  color:black;
+  font-weight:bold;
+}

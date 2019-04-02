@@ -1,9 +1,11 @@
 title: Matthias Raives
 email: mattjraives@gmail.com
 description: |-
-  Graduate student at the Ohio state university.  Studying the supernova explosion mechanism and magnetar winds.  Him/his.
+  Graduate student at the Ohio state university.  Studying the supernova explosion mechanism and magnetar winds.  He/his.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+logo: /assets/img/gargantua.svg
 
 #github
 github: {is_project_page: false, is_user_page: true}
@@ -15,9 +17,17 @@ twitter_username: matthiasraives
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
+permalink: pretty
+mathjax: true
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  problems:
+    output: true
+    permalink: /oom/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
