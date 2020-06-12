@@ -13,5 +13,5 @@ group :jekyll_plugins do
 end
 
 #OTHER
-gem "nokogiri", ">= 1.8.5"
+gem "nokogiri", ">= 1.10.8"
 
