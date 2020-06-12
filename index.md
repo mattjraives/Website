@@ -2,5 +2,5 @@
 layout: default
 title: About Me
 ---
-I am a 4th year graduate student at the Ohio State University.  My interests include the supernovae explosion mechanism and nucleosynthesis in magnetar winds.
+I am a 6th year graduate student at the Ohio State University.  I use analytic and computational methods to study the supernovae explosion mechanism and MHD winds.
 
