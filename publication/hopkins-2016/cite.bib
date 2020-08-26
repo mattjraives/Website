@@ -1,0 +1,20 @@
+@article{Hopkins2016,
+ abstract = {Recently, we explored new meshless finite-volume Lagrangian methods for         hydrodynamics: the `meshless finite mass' (MFM) and `meshless         finite volume' (MFV) methods; these capture advantages of both         smoothed particle hydrodynamics (SPH) and adaptive mesh         refinement (AMR) schemes. We extend these to include ideal         magnetohydrodynamics (MHD). The MHD equations are second-order         consistent and conservative. We augment these with a divergence-         cleaning scheme, which maintains nabla ·         B\ensuremath≈ 0. We implement these in the code GIZMO,         together with state-of-the-art SPH MHD. We consider a large test         suite, and show that on all problems the new methods are         competitive with AMR using constrained transport (CT) to ensure         nabla · B=0. They correctly capture the         growth/structure of the magnetorotational instability, MHD         turbulence, and launching of magnetic jets, in some cases         converging more rapidly than state-of-the-art AMR. Compared to         SPH, the MFM/MFV methods exhibit convergence at fixed neighbour         number, sharp shock-capturing, and dramatically reduced noise,         divergence errors, and diffusion. Still, `modern' SPH can handle         most test problems, at the cost of larger kernels and `by hand'         adjustment of artificial diffusion. Compared to non-moving         meshes, the new methods exhibit enhanced `grid noise' but         reduced advection errors and diffusion, easily include self-         gravity, and feature velocity-independent errors and superior         angular momentum conservation. They converge more slowly on some         problems (smooth, slow-moving flows), but more rapidly on others         (involving advection/rotation). In all cases, we show divergence         control beyond the Powell 8-wave approach is necessary, or all         methods can converge to unphysical answers even at high         resolution.},
+ archiveprefix = {arXiv},
+ author = {Hopkins, Philip F. and Raives, Matthias J.},
+ doi = {10.1093/mnras/stv2180},
+ eprint = {1505.02783},
+ journal = {\mnras},
+ keywords = {hydrodynamics, instabilities, turbulence, methods: numerical, cosmology: theory, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar and Stellar Astrophysics, Physics - Fluid Dynamics},
+ month = {January},
+ number = {1},
+ owner = {matt},
+ pages = {51-88},
+ primaryclass = {astro-ph.IM},
+ timestamp = {2020.08.12},
+ title = {Accurate, meshless methods for magnetohydrodynamics},
+ url = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.455...51H},
+ volume = {455},
+ year = {2016}
+}
+
