@@ -5,12 +5,44 @@
     <link>https://mattjraives.github.io/</link>
       <atom:link href="https://mattjraives.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthias J. Raives</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 02:06:30 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2020 13:13:18 -0400</lastBuildDate>
     <image>
       <url>https://mattjraives.github.io/images/icon_hu1ed6d2d50b97c02e800ee2b5aab34ec7_25304_512x512_fill_lanczos_center_2.png</url>
       <title>Matthias J. Raives</title>
       <link>https://mattjraives.github.io/</link>
     </image>
+    
+    <item>
+      <title>Fall Conference Series</title>
+      <link>https://mattjraives.github.io/slides/example-slides/</link>
+      <pubDate>Wed, 26 Aug 2020 13:13:18 -0400</pubDate>
+      <guid>https://mattjraives.github.io/slides/example-slides/</guid>
+      <description>&lt;h1 id=&#34;big-title&#34;&gt;Big Title&lt;/h1&gt;
+&lt;h2 id=&#34;small-title&#34;&gt;Small Title&lt;/h2&gt;
+&lt;h3 id=&#34;subtitle&#34;&gt;Subtitle&lt;/h3&gt;
+&lt;p&gt;Matthias J Raives | Date | Location&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-with-subslides&#34;&gt;Slide with Subslides&lt;/h2&gt;
+&lt;p&gt;This stays on all slides&lt;/p&gt;
+&lt;section&gt;Horizontal Slide&lt;/section&gt;
+&lt;section&gt;  
+  Vertical Slide
+&lt;/section&gt;
+&lt;section&gt;
+  Math
+&lt;p&gt;$E=mc^2$&lt;/p&gt;
+&lt;p&gt;$\frac{c_T^2}{v_{\rm esc}^2} = \frac{3}{16}$&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-with-notes&#34;&gt;Slide With Notes&lt;/h2&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+    Shhh, these are your private notes
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;slide-with-video&#34;&gt;Slide with Video&lt;/h2&gt;
+&lt;iframe data-autoplay src=&#34;output.webm&#34; height=500 width=669&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Magnetized Rotating Isothermal Winds of Proto-Neutron Stars</title>
