@@ -1,15 +1,15 @@
 {
-  "name": "Matthias J. Raives",
-  "short_name": "Matthias J. Raives",
+  "name": "Academic",
+  "short_name": "Academic",
   "lang": "en-us",
-  "theme_color": "#c27a25",
-  "background_color": "#c27a25",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
-    "src": "/images/icon_hu1ed6d2d50b97c02e800ee2b5aab34ec7_25304_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu1ed6d2d50b97c02e800ee2b5aab34ec7_25304_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
